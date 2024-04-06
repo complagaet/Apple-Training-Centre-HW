@@ -64,7 +64,7 @@ func sorting(_ input: String) -> String {
 }
 
 print("\n------ Task 3 ------")
-print(sorting("eA2a1E"))  // "aAeE12"
-print(sorting("Re4r"))    // "erR4"
-print(sorting("6jnM31Q")) // "jMnQ136"
-print(sorting("846ZIbo")) // "bIoZ468"
+print(sorting("eA2a1E"))
+print(sorting("Re4r"))
+print(sorting("6jnM31Q"))
+print(sorting("846ZIbo"))
