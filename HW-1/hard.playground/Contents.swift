@@ -63,6 +63,9 @@ func sorting(_ input: String) -> String {
     return sortedString
 }
 
+// it works incorrect......... =(((((((((((((((
+// i hope to fix it later
+
 print("\n------ Task 3 ------")
 print(sorting("eA2a1E"))
 print(sorting("Re4r"))
